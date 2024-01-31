@@ -1,0 +1,12 @@
+h2.intro {
+  color: chartreuse ;
+  text-align: center;
+
+}
+p.intro{
+  color: black;
+  text-align: center;
+}
+img.intro{
+  margin-left: 45%;
+}
